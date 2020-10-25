@@ -1,0 +1,2 @@
+# 📌 Aula 4 - Machine Learning
+Nessa aula construimos um modelo de Machine Learning, com objetivo de entender a diferença entre problemas de regressão e classificação e como avaliar o modelo, utilizando a biblioteca <b>Scikit-Learning</b>.
